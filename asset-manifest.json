@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddc9352b.css",
+    "main.js": "/static/js/main.cefb0486.js",
+    "static/js/787.b701888c.chunk.js": "/static/js/787.b701888c.chunk.js",
+    "static/media/kmu_type30_650.svg": "/static/media/kmu_type30_650.cdbe212c412463cf61018d59fb376fe6.svg",
+    "index.html": "/index.html",
+    "main.ddc9352b.css.map": "/static/css/main.ddc9352b.css.map",
+    "main.cefb0486.js.map": "/static/js/main.cefb0486.js.map",
+    "787.b701888c.chunk.js.map": "/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc9352b.css",
+    "static/js/main.cefb0486.js"
+  ]
+}
